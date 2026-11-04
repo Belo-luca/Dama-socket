@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading; // Servirà per gestire il Thread del server
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
